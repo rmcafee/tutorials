@@ -1,5 +1,16 @@
 # Beginner Blog
 
+## Resources
+
+[HTML Cheatsheet](https://www.smashingmagazine.com/wp-content/uploads/images/html5-cheat-sheet/html5-cheat-sheet.pdf)
+
+[CSS Cheatsheet](https://www.smashingmagazine.com/wp-content/uploads/images/html5-cheat-sheet/html5-cheat-sheet.pdf)
+
+[Ruby on Rails Guide](http://guides.rubyonrails.org)
+
+[Codeanywhere](http://www.codeanywhere.com)
+
+
 ## Installation
 
 1. Setup account at <https://codeanywhere.com>
