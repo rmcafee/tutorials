@@ -4,7 +4,7 @@
 
 [HTML Cheatsheet](https://www.smashingmagazine.com/wp-content/uploads/images/html5-cheat-sheet/html5-cheat-sheet.pdf)
 
-[CSS Cheatsheet](https://www.smashingmagazine.com/wp-content/uploads/images/html5-cheat-sheet/html5-cheat-sheet.pdf)
+[CSS Cheatsheet](https://www.smashingmagazine.com/wp-content/uploads/images/css3-cheat-sheet/css3-cheat-sheet.pdf)
 
 [Ruby on Rails Guide](http://guides.rubyonrails.org)
 
